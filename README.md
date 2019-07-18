@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
-Hello, World
+Hello, World.
 Git-Hub Testing
